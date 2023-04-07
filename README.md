@@ -1,5 +1,6 @@
 # RetoSaucedemo
-Este repositorio alojado en Github contiene una automatización de pruebas web para un sitio de compras en línea. La automatización ha sido diseñada utilizando el patrón Screenplay para asegurar un código limpio y mantenible y se han respetado los principios SOLID. La automatización utiliza Java y Gradle como herramienta de construcción.
+Este repositorio alojado en Github contiene una automatización de pruebas web para un sitio de compras en línea.
+La automatización ha sido diseñada utilizando el patrón Screenplay para asegurar un código limpio y mantenible y se han respetado los principios SOLID. La automatización utiliza Java y Gradle como herramienta de construcción.
 
 La automatización incluye pruebas para los principales flujos de trabajo de la aplicación, que incluyen iniciar sesión en la aplicación, agregar dos artículos al carrito de compra, llenar un formulario de pago y verificar la compra.
 
